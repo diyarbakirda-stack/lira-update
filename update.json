@@ -1,10 +1,10 @@
 {
-  "version": "1.5.1",
-  "url": "https://www.dropbox.com/scl/fi/dcdj15pa5hbecgbyesagi/LiraUpdate-1.5.1.exe?rlkey=y2v8canu4bazmo070gojrkrcc&st=utkia2x5&dl=1",
-  "hash": "239CB4211A108B3EE109AE6525FAC6C3887BF3FA64E0B7B65A622F7C00829BA2",
-  "size": 59628730,
+  "version": "1.5.2",
+  "url": "https://www.dropbox.com/scl/fi/ouwzyxuttojagu27axth2/LiraUpdate-1.5.2.exe?rlkey=16la0worg6kdvco867f7jy28m&st=qecqkta7&dl=1",
+  "hash": "3490ECA4547DFFF68DF6582E5B37CBB50A8317B9063149FE76DDB082E31F1B0E",
+  "size": 59621122,
   "mandatory": false,
-  "message": "يوجد تحديث جديد للنظام (الإصدار 1.5.1)",
-  "changelog": "الإصدار 1.5.1\n- انتقال قناة التحديث إلى GitHub Pages: تُفحص التحديثات الآن على الاستضافة المجانية من GitHub — بلا حدود رصيد وبلا توقف نشر\n- تغيير عنوان القناة فقط: المزايا والبيانات مطابقة تماماً لـ1.5.0 (كميات واعية بالوحدة + الواجهة الكردية الموحّدة)\n- لا تدوير مفتاح: نفس توقيع ed25519 من 1.4.3",
-  "signature": "NOWjxNpm5XW3m2ahUZpDD9Kq6pjFQGDnI6B8i3NUcW9d5MTb/sSbXgqwWAUnylqFpR8vPcvbGkd7QJGmTCkRBg=="
+  "message": "يوجد تحديث جديد للنظام (الإصدار 1.5.2)",
+  "changelog": "الإصدار 1.5.2\n- إصلاحات في البيع والمخزون والعمولات: خصم السطر يُطبَّق فعلاً على إجمالي الفاتورة، وخصم المخزون يمرّ عبر محرّك الدفعات FEFO مع رسالة واضحة عند نقص المخزون، وكشف المندوب يخصم عمولة المرتجعات\n- أمان: مفتاح تشفير النسخ الاحتياطية لا يُدمَّر صامتاً عند تعذّر القراءة، مفتاح توقيع التحديث لم يعد قابلاً للتبديل بمتغير بيئة، وخادم relay يتحقق من سرّ الجهاز\n- لا يمكن تشغيل نسختين من Lira، ومثبّت التحديث يُغلق البرنامج تلقائياً",
+  "signature": "TGoMMj29diU/45nv5ldna7fNgtIkxfZhQPcNcN8STmgJC5H9l1snR7myWLX/zTuDDzwtctN1M0n3L8Fhm04bAg=="
 }
