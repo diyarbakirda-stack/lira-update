@@ -1,10 +1,10 @@
 {
-  "version": "1.5.4",
-  "url": "https://www.dropbox.com/scl/fi/nvzbpqmx7zqfjvuxiykp3/LiraUpdate-1.5.4.exe?rlkey=0fetv6b3z6dwxmkft3kfn5zvw&st=6oard00t&dl=1",
-  "hash": "14616a7a3d1aac49a3fb7b0d67167d352e6664994099f57079c87e9e21914233",
-  "size": 61731030,
+  "version": "1.5.5",
+  "url": "https://www.dropbox.com/scl/fi/2x4erz57g2n2b668fwvie/LiraUpdate-1.5.5.exe?rlkey=mebp5yclimwj161of8l63c3n0&st=7dvacmc3&dl=1",
+  "hash": "e4983ff087d60c05b05788bc442a984c72a1cee072219da7e1b67665c048bb75",
+  "size": 61736725,
   "mandatory": false,
-  "message": "يوجد تحديث جديد للنظام (الإصدار 1.5.4)",
+  "message": "يوجد تحديث جديد للنظام (الإصدار 1.5.5)",
   "changelog": "- تحسينات وإصلاحات",
-  "signature": "hlQc4VgQU1XPyj89X34+3JTxYXL9EbC+IuxX5YsK006rjmMeScFKNQeNWRy3F9fPnN4BSRM+g/LbGgiMsm17CA=="
+  "signature": "O6WdnnM1DGz8EOvThDh7lzt8RXrhlorg47L65lXzVx1j3jk9UyhnDMXl2yu1nJ9KDsjtm261QHLpNmKWkyn7Bw=="
 }
