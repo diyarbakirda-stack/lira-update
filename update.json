@@ -1,10 +1,10 @@
 {
-  "version": "1.5.7",
-  "url": "https://www.dropbox.com/scl/fi/3gb2xrn8vu8w2mdi49y8j/LiraUpdate-1.5.7.exe?rlkey=ky1ozi8iqo79uebsvze2k2xwf&st=bfkanbhi&dl=1",
-  "hash": "6aec24d6897cbe4480e5a6f78ca26835faf284c854a6c0bc6414e8dac73b31ef",
-  "size": 62328953,
+  "version": "1.5.8",
+  "url": "https://www.dropbox.com/scl/fi/h7gdr1jk4bjsmb00kgbcn/LiraUpdate-1.5.8.exe?rlkey=iv7mzeurae5q8gafjr7hifocu&st=wl5h3ez4&dl=1",
+  "hash": "b562b07a07353037d68b79e5c941312d3886f3a86c50f0d4a9dbee1ebc62d31c",
+  "size": 62333919,
   "mandatory": false,
-  "message": "يوجد تحديث جديد للنظام (الإصدار 1.5.7)",
+  "message": "يوجد تحديث جديد للنظام (الإصدار 1.5.8)",
   "changelog": "- تحسينات جوهرية في سرعة الإقلاع والأداء المحاسبي وإصلاحات عامة",
-  "signature": "C4QjdO53vgIsPLIIcRnwwAkDkKMCwveqp9P5TqWynPUHzwNNjxmR89QhEBVtgK6D+/S9aUPOsXaiV+0dyhBNBg=="
+  "signature": "WMTx+tgRy38uiEJiYbc4UAt1TS5SlqtVE4yePHC80r2tln0yMyFU2g0HP62OjNq9pILI+NxJcIcK0MBOr1myBw=="
 }
